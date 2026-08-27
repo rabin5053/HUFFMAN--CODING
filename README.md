@@ -1,6 +1,6 @@
 # Huffman-Coding
-## NAME:M.MAHENDIRAN
-##REG NO:212225230165
+## NAME:R.Rabin
+##REG NO:212224230213
 ## Aim
 To implement Huffman coding to compress the data using Python.
 
